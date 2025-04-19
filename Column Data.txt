@@ -1,0 +1,8 @@
+*Column*	*Type*	*Description*
+-Month1	    float	Sales from 1st month of the 3-month window
+-Month2	    float	Sales from 2nd month
+-Month3	    float	Sales from 3rd month (used as target for training)
+-Year	     int	Year of the record (for future YOY analysis)
+-Promo	     int	1 if there was a promotional campaign
+-Holiday	 int	1 if the period had holidays
+-Date       string  Date of the sale
