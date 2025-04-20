@@ -1,4 +1,4 @@
-# 📊 Final Sales Forecasting App
+# 📊 Forecast Flow - A Sales Forecasting App
 
 This is a professional-grade multi-page Streamlit app for forecasting sales across various products with powerful ML features:
 
